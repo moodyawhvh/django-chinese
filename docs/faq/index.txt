@@ -1,3 +1,5 @@
+> 🌐 本文档由 [django/django](https://github.com/django/django) 翻译,英文原版见原项目。
+
 ==========
 Django FAQ
 ==========
