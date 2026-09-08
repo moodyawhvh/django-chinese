@@ -1,27 +1,29 @@
-#### Trac ticket number
-<!-- Replace XXXXX with the corresponding Trac ticket number. -->
-<!-- Or delete the line and write "N/A - typo" for typo fixes. -->
+> 🌐 本文档由 [django/django](https://github.com/django/django) 翻译,英文原版见原项目。
+
+#### Trac 工单编号
+<!-- 将 XXXXX 替换为对应的 Trac 工单编号。 -->
+<!-- 若为错别字修复,也可删除该行并填写 "N/A - typo"。 -->
 
 ticket-XXXXX
 
-#### Branch description
-<!-- Provide a concise overview of the issue or rationale behind the proposed changes. Minimum five words. -->
+#### 分支说明
+<!-- 简明概述该 issue 或本次改动的动机。至少五个词。 -->
 
-#### AI Assistance Disclosure (REQUIRED)
-<!-- Select exactly ONE of the following: -->
-- [ ] **No AI tools were used** in preparing this PR.
-- [ ] **If AI tools were used**, I have disclosed which ones, and fully reviewed and verified their output.
-<!-- If AI tools were used, provide which tools were used here. -->
+#### AI 辅助声明(必填)
+<!-- 在以下选项中选择且仅选择一项: -->
+- [ ] **未使用任何 AI 工具** 准备本 PR。
+- [ ] **如果使用了 AI 工具**,我已披露所用工具,并完整审查和核实了其输出。
+<!-- 如使用了 AI 工具,请在此写明所用的工具。 -->
 
-#### Checklist
-- [ ] This PR follows the [contribution guidelines](https://docs.djangoproject.com/en/stable/internals/contributing/writing-code/submitting-patches/).
-- [ ] This PR **does not** disclose a security vulnerability (see [vulnerability reporting](https://docs.djangoproject.com/en/stable/internals/security/)).
-- [ ] This PR targets the `main` branch. <!-- Backports will be evaluated and done by mergers, when necessary. -->
-- [ ] The commit message is written in past tense, mentions the ticket number (if applicable), and ends with a period (see [guidelines](https://docs.djangoproject.com/en/dev/internals/contributing/committing-code/#committing-guidelines)).
-- [ ] I have not requested, and will not request, an automated AI review for this PR. <!-- You are welcome to do so in your own fork. -->
+#### 检查清单
+- [ ] 本 PR 遵循[贡献指南](https://docs.djangoproject.com/en/stable/internals/contributing/writing-code/submitting-patches/)。
+- [ ] 本 PR **不会**泄露安全漏洞(参见[漏洞报告流程](https://docs.djangoproject.com/en/stable/internals/security/))。
+- [ ] 本 PR 面向 `main` 分支。 <!-- 如有需要,回移(backport)将由合并管理员评估并执行。 -->
+- [ ] 提交信息使用过去时书写,注明工单编号(如适用),并以句号结尾(参见[指南](https://docs.djangoproject.com/en/dev/internals/contributing/committing-code/#committing-guidelines))。
+- [ ] 我没有请求、也不会请求对本 PR 进行自动化 AI 评审。 <!-- 在你自己的 fork 中这样做没有问题。 -->
 
-<!-- Leave the following items unchecked if not applicable. -->
-- [ ] I have checked the "Has patch" ticket flag in the Trac system.
-- [ ] I have added or updated relevant tests.
-- [ ] I have added or updated relevant docs, including release notes if applicable.
-- [ ] I have attached screenshots in both light and dark modes for any UI changes.
+<!-- 如不适用,以下各项保持未勾选。 -->
+- [ ] 我已在 Trac 系统中勾选 "Has patch" 工单标志。
+- [ ] 我已添加或更新相关测试。
+- [ ] 我已添加或更新相关文档,如适用还包括发布说明。
+- [ ] 对于任何 UI 改动,我已同时附上浅色模式与深色模式下的截图。

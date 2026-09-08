@@ -1,3 +1,5 @@
-# Django Code of Conduct
+> 🌐 本文档由 [django/django](https://github.com/django/django) 翻译,英文原版见原项目。
 
-See https://www.djangoproject.com/conduct/.
+# Django 行为准则
+
+请参阅 https://www.djangoproject.com/conduct/。
