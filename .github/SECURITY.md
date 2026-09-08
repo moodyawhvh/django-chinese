@@ -1,3 +1,5 @@
-# Django Security Policies
+> 🌐 本文档由 [django/django](https://github.com/django/django) 翻译,英文原版见原项目。
 
-Please see https://www.djangoproject.com/security/.
+# Django 安全策略
+
+请参阅 https://www.djangoproject.com/security/。

@@ -1,54 +1,49 @@
+> 🌐 本文档由 [django/django](https://github.com/django/django) 翻译,英文原版见原项目。
+
 ======
 Django
 ======
 
-Django is a high-level Python web framework that encourages rapid development
-and clean, pragmatic design. Thanks for checking it out.
+Django 是一个高级 Python Web 框架,鼓励快速开发与整洁、务实的设计。感谢你关注它。
 
-All documentation is in the "``docs``" directory and online at
-https://docs.djangoproject.com/en/stable/. If you're just getting started,
-here's how we recommend you read the docs:
+全部文档位于 "``docs``" 目录,也可在线阅读:https://docs.djangoproject.com/en/stable/。如果你刚刚上手,我们建议按以下顺序阅读文档:
 
-* First, read ``docs/intro/install.txt`` for instructions on installing Django.
+* 首先,阅读 ``docs/intro/install.txt``,了解安装 Django 的步骤。
 
-* Next, work through the tutorials in order (``docs/intro/tutorial01.txt``,
-  ``docs/intro/tutorial02.txt``, etc.).
+* 接着,按顺序完成各篇教程(``docs/intro/tutorial01.txt``、
+  ``docs/intro/tutorial02.txt`` 等)。
 
-* If you want to set up an actual deployment server, read
-  ``docs/howto/deployment/index.txt`` for instructions.
+* 如果你想搭建真正的部署服务器,请阅读
+  ``docs/howto/deployment/index.txt`` 中的说明。
 
-* You'll probably want to read through the topical guides (in ``docs/topics``)
-  next; from there you can jump to the HOWTOs (in ``docs/howto``) for specific
-  problems, and check out the reference (``docs/ref``) for gory details.
+* 之后你大概率想通读各主题指南(位于 ``docs/topics``);遇到具体问题再去查
+  HOWTO 文档(位于 ``docs/howto``),需要细节时翻阅参考手册(``docs/ref``)。
 
-* See ``docs/README`` for instructions on building an HTML version of the docs.
+* 构建文档 HTML 版本的方法见 ``docs/README``。
 
-Docs are updated rigorously. If you find any problems in the docs, or think
-they should be clarified in any way, please take 30 seconds to
-`fill out a ticket <https://code.djangoproject.com/newticket>`_. You can log in
-with your GitHub account, or with a DjangoProject account if you have one. Once
-you log in, a New Ticket button is available next to View Tickets.
+文档的更新非常严格。如果你在文档中发现任何问题,或认为某些地方需要进一步澄清,请花 30 秒
+`提交一个工单 <https://code.djangoproject.com/newticket>`_。你可以用 GitHub 账号登录,也可以用 DjangoProject 账号(如果有的话)。登录后,View Tickets 旁边会出现 New Ticket 按钮。
 
-To get more help:
+获取更多帮助:
 
-* Join the `Django Discord community <https://chat.djangoproject.com>`_.
+* 加入 `Django Discord 社区 <https://chat.djangoproject.com>`_。
 
-* Join the community on the `Django Forum <https://forum.djangoproject.com/>`_.
+* 加入 `Django 论坛 <https://forum.djangoproject.com/>`_ 上的社区。
 
-To contribute to Django:
+为 Django 做贡献:
 
-* Check out https://docs.djangoproject.com/en/dev/internals/contributing/ for
-  information about getting involved.
+* 请访问 https://docs.djangoproject.com/en/dev/internals/contributing/
+  了解如何参与贡献。
 
-To run Django's test suite:
+运行 Django 的测试套件:
 
-* Follow the instructions in the "Unit tests" section of
-  ``docs/internals/contributing/writing-code/unit-tests.txt``, published online at
+* 按照 ``docs/internals/contributing/writing-code/unit-tests.txt`` 中
+  "单元测试" 一节的说明操作,该文档在线发布于
   https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-the-unit-tests
 
-Supporting the Development of Django
+支持 Django 的发展
 ====================================
 
-Django's development depends on your contributions.
+Django 的发展依赖你的贡献。
 
-If you depend on Django, remember to support the Django Software Foundation: https://www.djangoproject.com/fundraising/
+如果你的项目依赖 Django,请记得支持 Django 软件基金会:https://www.djangoproject.com/fundraising/
